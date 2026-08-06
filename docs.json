@@ -39,7 +39,24 @@
           "href": "https://discord.com/invite/jadevelopment-962068926714511500"
         }
       ]
-    }
+    },
+    "tabs": [
+      {
+        "tab": "Documentation",
+        "groups": [
+          {
+            "group": "Getting Started",
+            "pages": [
+              "index",
+              "quickstart"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Developer API"
+      }
+    ]
   },
   "logo": {
     "light": "/images/StandardKTypeface.png",
