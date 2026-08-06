@@ -24,14 +24,14 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "anchor": "System Status",
+          "icon": "lightbulb",
+          "href": "https://status.jadevelopment.co.uk/en"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "Community",
+          "icon": "discord",
+          "href": "https://discord.com/invite/jadevelopment-962068926714511500"
         }
       ]
     }
@@ -53,16 +53,10 @@
       "href": "https://app.mintlify.com"
     }
   },
-  "contextual": {
-    "options": [
-      "copy",
-      "view",
-      "chatgpt",
-      "claude",
-      "perplexity",
-      "mcp",
-      "cursor",
-      "vscode"
-    ]
+  "footer": {
+    "socials": {
+      "x": "https://x.com/jadevelopment",
+      "discord": "https://discord.com/invite/jadevelopment-962068926714511500"
+    }
   }
 }
