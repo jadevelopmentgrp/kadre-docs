@@ -4,8 +4,8 @@
   "name": "Kadre",
   "colors": {
     "primary": "#161c2d",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#96b5ca",
+    "dark": "#8099a9"
   },
   "favicon": {
     "light": "/images/kwithdot.png",
@@ -62,6 +62,15 @@
     "socials": {
       "x": "https://x.com/jadevelopment",
       "discord": "https://discord.com/invite/jadevelopment-962068926714511500"
+    }
+  },
+  "appearance": {
+    "default": "dark",
+    "strict": false
+  },
+  "background": {
+    "color": {
+      "dark": "#1e2124"
     }
   }
 }
