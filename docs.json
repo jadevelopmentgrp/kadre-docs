@@ -86,5 +86,9 @@
     "color": {
       "dark": "#161826"
     }
+  },
+  "banner": {
+    "content": "Thank you for your interest in Kadre, this service is not available to the public yet.",
+    "type": "warning"
   }
 }
