@@ -88,7 +88,7 @@
     }
   },
   "banner": {
-    "content": "Thank you for your interest in Kadre, this service is not available to the public yet.",
+    "content": "Thank you for your interest in Kadre, this service is not available to the public yet so the documentation is currently unavailable and shows the default one.",
     "type": "warning"
   }
 }
