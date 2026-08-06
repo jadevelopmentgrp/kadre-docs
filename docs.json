@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Kadre",
+  "name": "Kadre Docs",
   "colors": {
     "primary": "#161826",
     "light": "#96b5ca",
