@@ -34,8 +34,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/images/StandardKTypeface.png",
+    "dark": "/images/JustTypefaceNoSubtext.png"
   },
   "navbar": {
     "links": [
