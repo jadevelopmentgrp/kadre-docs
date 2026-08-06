@@ -29,6 +29,11 @@
           "href": "https://status.jadevelopment.co.uk/en"
         },
         {
+          "anchor": "jaDevelopment Docs",
+          "icon": "page",
+          "href": "https://docs.jadevelopment.co.uk/"
+        },
+        {
           "anchor": "Community",
           "icon": "discord",
           "href": "https://discord.com/invite/jadevelopment-962068926714511500"
