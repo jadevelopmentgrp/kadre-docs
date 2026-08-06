@@ -3,7 +3,7 @@
   "theme": "mint",
   "name": "Kadre Docs",
   "colors": {
-    "primary": "#161826",
+    "primary": "#96b5ca",
     "light": "#96b5ca",
     "dark": "#8099a9"
   },
@@ -84,7 +84,7 @@
   },
   "background": {
     "color": {
-      "dark": "#1e2124"
+      "dark": "#161826"
     }
   }
 }
