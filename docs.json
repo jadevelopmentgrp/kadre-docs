@@ -72,5 +72,12 @@
     "color": {
       "dark": "#1e2124"
     }
+  },
+  "banner": {
+    "content": "This service is not launched and documentation is unavailable at the moment.",
+    "type": "critical",
+    "color": {
+      "dark": "#96b5ca"
+    }
   }
 }
